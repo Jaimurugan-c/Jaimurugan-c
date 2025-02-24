@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jaimurugan</h1>
 <h3 align="center">I'm passionate frontend developer.</h3>
 
-- 🌱 I’m currently learning **Node.js**
-
+- 🌱 I’m **MERN** stack developer
 - 💬 Ask me about **react**
 
 - 📫 How to reach me **jaimurugan1703@gmail.com**
